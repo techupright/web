@@ -15,4 +15,8 @@
     jQuery, Modernizr
 Hello world
 Made changes to project on my local repo
+
+Happy with the changes
+Add few changes as well
+
 
